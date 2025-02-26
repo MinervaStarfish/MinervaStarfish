@@ -2,7 +2,7 @@
 🎓 I'm a Systems and Informatics Engineering student.<br>🛡️ I work in content moderation.<br>🖥️ Currently building small programs to improve my skills.<br>🌱 Learning AWS, PostgreSQL, and Java.<br>🐱 Proud cat owner of Meleys.<br>📚 I love reading and playing video games.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@moo.r.aa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@maosro) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/minervastarfish) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MinsStaar) 
 
 # 💻 Tech Stack:
