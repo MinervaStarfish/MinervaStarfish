@@ -31,24 +31,25 @@
 ---
 
 <!-- About me -->
-<table border="1" width="300" align="center">
+<!-- <table border="1" align="center">
     <tr>
-        <td><img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="600" height="76.38"/></td>
-        <td><h1 align="center">A little more about me</h1></td> <!-- image with the tittle so its centered in the middle-->
+        <td><img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="615" height="76.38"/></td>
+        <td><h1 align="center">A little More About Me</h1></td> <!-- image with the tittle so its centered in the middle
     </tr>
-</table>
+</table>-->
+<h1 align="center">A little More About Me</h1>
 
 ---
 
-<table border="1" width="300" align="center">
+<table border="1" width="298" align="center">
     <tr>
         <td><h2 align="center">My Top 5 Animations</h2></td>
-        <td rowspan="2">Columna 2 (Ocupa 2 filas)</td> <!-- Celda que ocupa ambas filas -->
+        <td rowspan="2"><img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="386"/></td> <!-- Celda que ocupa ambas filas -->
         <td><h2 align="center">My Top 5 Games</h2></td>
     </tr>
     <tr>
-        <td>
-          <ul>
+        <td width="298">
+          <ul align="center">
             <li>Steven Universe</li>
             <li>Adventure Time</li>
             <li>Devilman Crybaby</li>
@@ -56,10 +57,9 @@
             <li>Over The Garden Wall</li>
           </ul>
         </td>
-        <td>          
-          <ul>
+        <td width="298">          
+          <ul align="center">
             <li>Hello Charlotte</li>
-            <br>
             <li>Rain World</li>
             <li>Undertale</li>
             <li>Super Mario 64 DS</li>
@@ -70,7 +70,25 @@
 </table>
 
 ---
+<!-- Stats -->
+<h1 align="center">Stats</h1>
 
+<p align="center">
+  <a href="https://github.com/MinervaStarfish">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MinervaStarfish&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/MinervaStarfish">
+    <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=MinervaStarfish&theme=onedark&hide_border=false"/>
+  </a>
+    <a href="https://github.com/MinervaStarfish">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinervaStarfish&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </a>
+</p>
+
+---
+
+<!-- Stats -->
+<h1 align="center">Tech Stack</h1>
 
 
 
