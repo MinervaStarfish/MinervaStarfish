@@ -44,6 +44,12 @@
     <li>Elemento 3</li>
 </ul>
 
+<div>
+    <div>Columna 1</div>
+    <div>Columna 2</div>
+    <div>Columna 3</div>
+</div>
+
 
 
 
