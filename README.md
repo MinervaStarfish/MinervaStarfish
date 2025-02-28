@@ -32,4 +32,50 @@
 
 </p>
 </td></tr></table>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 100vh;
+            padding: 0 10%;
+        }
+        .text {
+            flex: 1;
+            text-align: right;
+            font-size: 2em;
+            font-weight: bold;
+        }
+        .image {
+            flex: 1;
+            display: flex;
+            justify-content: flex-start;
+        }
+        .image img {
+            width: 300px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="text">
+            A little more about me
+        </div>
+        <div class="image">
+            <img src="https://via.placeholder.com/300" alt="Foto de Mariana">
+        </div>
+    </div>
+
+</body>
+</html>
+
 <!-- PNOTICAS JAJAJ -->
