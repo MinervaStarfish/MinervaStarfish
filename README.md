@@ -31,8 +31,12 @@
 ---
 
 <!-- About me -->
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="600" height="76.38"/><br>
-<h1 align="center">A little more about me</h1><!-- image with the tittle so its centered in the middle-->
+<table border="1" width="300" align="center">
+    <tr>
+        <td><img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="600" height="76.38"/></td>
+        <td><h1 align="center">A little more about me</h1></td> <!-- image with the tittle so its centered in the middle-->
+    </tr>
+</table>
 
 ---
 
@@ -66,12 +70,7 @@
 
 ---
 
-<table border="1" width="300" align="center">
-    <tr>
-        <td><img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="600" height="76.38"/></td>
-        <td><h1 align="center">A little more about me</h1></td>
-    </tr>
-</table>
+
 
 
 
