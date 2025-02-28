@@ -18,7 +18,7 @@
 <!-- About me -->
       
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%"> 
-## Mis gustos
+### My Diaries :s
 
 </td><td valign="top" width="33%">
 <p align="right">
