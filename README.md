@@ -17,26 +17,10 @@
 
 <!-- About me -->
 
-<p align="center">
-  <em>
-    This is me, a Systems and Computer Science Engineering student at the Pontifical Bolivarian University in Colombia.<br>I thrive on learning every day and questioning the unquestionable.<br>I am on a constant journey to discover what truly ignites my passion.<br>20yo, Aries, INTP.
-  </em> 
-  <br>
-  <br>
-  <b><i>Feel free to dive deeper into my world</i></b>
-</p>
-<hr>
-<h1 align="center"></h1>
+| Texto en la izquierda | Imagen en la derecha |
+|-----------------------|----------------------|
+| **Este es un cuadro de texto.** Aquí puedes escribir más contenido o usar negritas y otros formatos. | ![Imagen](https://via.placeholder.com/150) |
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 50%; padding: 10px;">
-        <h3>Texto en la izquierda</h3>
-        <p>Este es un cuadro de texto en la columna izquierda.</p>
-    </div>
-    <div style="width: 50%; text-align: center;">
-        <img src="https://via.placeholder.com/150" alt="Imagen de ejemplo" style="max-width: 100%;">
-    </div>
-</div>
 
 
 <!-- PNOTICAS JAJAJ -->
