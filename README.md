@@ -36,7 +36,7 @@
 
 ---
 
-<table border="1" width="300">
+<table border="1" width="300" align="center">
     <tr>
         <td><h2 align="center">My Top 5 Animations</h2></td>
         <td rowspan="2">Columna 2 (Ocupa 2 filas)</td> <!-- Celda que ocupa ambas filas -->
