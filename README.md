@@ -194,7 +194,22 @@ In order to protect the city, at the cost of many, many lives, the citizens caug
 ```
 <hr>
 
+<img align="right" src="https://static.wikia.nocookie.net/hellocharlotte/images/c/c6/Oracle-7.png/revision/latest?cb=20170515105202" height="325" width="320" />
 
+```
+Frei's Ending
+-------------------------
+- A pitiful ink-black princess that looked for minds alike who ended up in prison of Paper Kingdom.
+But the story didn't end here. Time passed, and Paper Princess herself came to visit the prisoner.
+The two became acquaintances shortly after, and Ink Princess was freed from imprisonment.
+Ink Princess taught Paper Princess writing, and no paper in the city was blank anymore.
+They obtained power known as "knowledge".
+Paper Princess couldn't be happier.
+Yet, having spent so much time with Ink Princess, she became stained in Ink Princess's pitch-black color.
+Day by day, Paper Princess became more and more soaked in jet-black ink...
+..until she was indistinguishable from the Ink Princess herself.
+```
+<hr>
 
 
 
