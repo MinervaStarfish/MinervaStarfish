@@ -172,7 +172,7 @@
 </table>
 
 ---
-<img align="left" src="https://static.wikia.nocookie.net/hellocharlotte/images/e/e4/Ink1.png/revision/latest?cb=20180301230159" width="320" />
+<img align="left" src="https://static.wikia.nocookie.net/hellocharlotte/images/e/e4/Ink1.png/revision/latest?cb=20180301230159" height="364.25" width="320" />
 
 ```
 The Tale of Ink Princess
