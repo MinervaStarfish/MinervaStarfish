@@ -21,7 +21,7 @@
 
   <img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="500%">
 <p align="right">
 
 ### My Diaries :s
