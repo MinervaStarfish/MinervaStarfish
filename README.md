@@ -192,9 +192,8 @@ No matter where the Ink Princess went, she was always unwelcome.
 Every step the Princess took stained the ground, leaving inerasable footprints. Everything she touched turned pitch-black, as if it was never white before.
 In order to protect the city, at the cost of many, many lives, the citizens caught the Ink Princess and had her thrown in a paperwhite prison.
 ```
-<hr>
 
-<img align="right" src="https://static.wikia.nocookie.net/hellocharlotte/images/c/c6/Oracle-7.png/revision/latest?cb=20170515105202" height="325" width="320" />
+<img align="right" src="https://static.wikia.nocookie.net/hellocharlotte/images/c/c6/Oracle-7.png/revision/latest?cb=20170515105202" height="238.75" width="320" />
 
 ```
 Frei's Ending
@@ -209,7 +208,7 @@ Yet, having spent so much time with Ink Princess, she became stained in Ink Prin
 Day by day, Paper Princess became more and more soaked in jet-black ink...
 ..until she was indistinguishable from the Ink Princess herself.
 ```
-<hr>
+
 
 
 
