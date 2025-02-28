@@ -17,9 +17,20 @@
 
 <!-- About me -->
 
-| Texto en la izquierda | Imagen en la derecha |
+| #Texto en la izquierda | Imagen en la derecha |
 |-----------------------|----------------------|
 | **Este es un cuadro de texto.** Aquí puedes escribir más contenido o usar negritas y otros formatos. | ![Imagen](https://via.placeholder.com/150) |
+
+<div style="display: flex; align-items: center;">
+    <div style="width: 50%;">
+        <h3>Texto en la izquierda</h3>
+        <p>Este es un cuadro de texto en la columna izquierda.</p>
+    </div>
+    <div style="width: 50%; text-align: center;">
+        <img src="ruta/a/la/imagen.png" alt="Imagen de ejemplo" style="max-width: 100%;">
+    </div>
+</div>
+
 
 
 
