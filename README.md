@@ -48,7 +48,7 @@
         <td><h2 align="center">My Top 5 Games</h2></td>
     </tr>
     <tr>
-        <td width="298">
+        <td width="200">
           <ul align="center">
             <li>Steven Universe</li>
             <li>Adventure Time</li>
@@ -57,7 +57,7 @@
             <li>Over The Garden Wall</li>
           </ul>
         </td>
-        <td width="298">          
+        <td width="200">          
           <ul align="center">
             <li>Hello Charlotte</li>
             <li>Rain World</li>
