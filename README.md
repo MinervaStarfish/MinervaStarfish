@@ -18,27 +18,10 @@
 <hr>
 
 <!-- About me -->
-      
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%"> 
-
-  <img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
-
-</td><td valign="top" width="100%">
-<p align="right">
-
-## A little more about me...
-<h2 align="right">A little more about me...</h2>
-
-
-</p>
-</td></tr></table>
-
-
-
 
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<h2>A little more abot me</h2>
+<h3 align="center">A little more about me</h3>
 
 
 
