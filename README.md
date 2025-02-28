@@ -3,7 +3,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<hr>
+---
 
 <!-- Presentation -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mariana A.K.A Mins</h1>
@@ -28,13 +28,29 @@
   Feel free to dive deeper into my world
 </p>
 
-
 ---
 
 <!-- About me -->
-
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="600" height="76.38"/>
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="600" height="76.38"/><br>
 <h1 align="center">A little more about me</h1><!-- image with the tittle so its centered in the middle-->
+
+---
+
+<table border="1">
+    <tr>
+        <td><h2 align="center">The Animations I Love the Most</h2></td>
+        <td rowspan="2">Columna 2 (Ocupa 2 filas)</td> <!-- Celda que ocupa ambas filas -->
+        <td>Columna 3, Fila 1</td>
+    </tr>
+    <tr>
+        <td><ul>
+    <li>Elemento 1</li>
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+</ul></td>
+        <td>Columna 3, Fila 2</td>
+    </tr>
+</table>
 
 ---
 
@@ -43,20 +59,6 @@
     <li>Elemento 2</li>
     <li>Elemento 3</li>
 </ul>
-
-<table border="1">
-    <tr>
-        <td><h2 align="center">A little more about me</h2></td>
-        <td rowspan="2">Columna 2 (Ocupa 2 filas)</td> <!-- Celda que ocupa ambas filas -->
-        <td>Columna 3, Fila 1</td>
-    </tr>
-    <tr>
-        <td>Columna 1, Fila 2</td>
-        <td>Columna 3, Fila 2</td>
-    </tr>
-</table>
-
-
 
 
 
