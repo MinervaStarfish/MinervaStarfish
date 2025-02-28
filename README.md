@@ -171,7 +171,28 @@
   </tr>
 </table>
 
+---
+<img align="left" src="https://static.wikia.nocookie.net/hellocharlotte/images/e/e4/Ink1.png/revision/latest?cb=20180301230159" width="320" />
 
+```
+The Tale of Ink Princess
+-------------------------
+- Once upon a time, in a far, far away land filled with ink, lived an Ink Princess.
+Every morning she put on a pitch-black ink dress and combed her black hair.
+After spending thousands of years dwelling in the vast ocean filled with nothing but ink, the Princess decided to end her solitude.
+Thus, the Ink Princess set out on a journey.
+
+- The Princess passed through the fields, admiring how fruitful they were, and the crops got soaked in ink.
+The Princess swam in the sea, admiring how vast and clear it was, and all the fish died from pollution.
+"Please leave these lands! Can't you see everything is dying?" the peasants begged the Princess.
+But the Ink Princess was deaf to their prayers, as her heart had been soaked in ink a long, long time ago.
+No matter where the Ink Princess went, she was always unwelcome.
+
+- One day, she stepped into the Paper Kingdom.
+Every step the Princess took stained the ground, leaving inerasable footprints. Everything she touched turned pitch-black, as if it was never white before.
+In order to protect the city, at the cost of many, many lives, the citizens caught the Ink Princess and had her thrown in a paperwhite prison.
+```
+<hr>
 
 
 
