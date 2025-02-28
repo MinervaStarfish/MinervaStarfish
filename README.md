@@ -17,19 +17,41 @@
 
 <!-- About me -->
 
-| #Texto en la izquierda | Imagen en la derecha |
-|-----------------------|----------------------|
-| **Este es un cuadro de texto.** Aquí puedes escribir más contenido o usar negritas y otros formatos. | ![Imagen](https://via.placeholder.com/150) |
+<table style="border-color: transparent;" cellspacing="0">
+  <tr>
+    <td valign="center" width="60%">
+      
+      ## 🌟 Sobre Mí  
+      Soy Mariana, estudiante de Ingeniería de Sistemas e Informática. Me apasiona la tecnología, el desarrollo web y la gestión de proyectos. Actualmente, estoy explorando distintas ramas de mi carrera para decidir en qué especializarme.  
 
-<div style="display: flex; align-items: center;">
-    <div style="width: 50%;">
-        <h3>Texto en la izquierda</h3>
-        <p>Este es un cuadro de texto en la columna izquierda.</p>
-    </div>
-    <div style="width: 50%; text-align: center;">
-        <img src="ruta/a/la/imagen.png" alt="Imagen de ejemplo" style="max-width: 100%;">
-    </div>
-</div>
+      ## 🎓 Educación  
+      - Ingeniería de Sistemas e Informática (6° semestre)  
+      - Experiencia en desarrollo web, sistemas distribuidos y cloud computing  
+
+      ## 🛠️ Habilidades  
+      - Programación en **Python, JavaScript, C**  
+      - Desarrollo **web con HTML, CSS y React**  
+      - Gestión de proyectos con **Scrum y Kanban**  
+      - Análisis de datos y modelado de bases de datos  
+
+      ## 📌 Proyectos Actuales  
+      - Aplicación web con Python y GitLab CI/CD  
+      - Proyecto de gestión textil  
+      - Investigación sobre salud mental en educación en ingeniería  
+
+      ## 📫 Contacto  
+      Si quieres colaborar en un proyecto o simplemente charlar, contáctame en:  
+      ✉️ [miemail@example.com](mailto:miemail@example.com)  
+      🌐 [Mi sitio web](https://miportafolio.com)  
+
+    </td>
+    
+    <td valign="top" width="40%">
+      <img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
+    </td>
+  </tr>
+</table>
+
 
 
 
