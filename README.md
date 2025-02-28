@@ -1,6 +1,6 @@
 <!-- Header with an image -->
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://static.wikitide.net/rainworldwiki/thumb/d/d9/Monk_ascension_scene_2_%28Reach%29.png/1024px-Monk_ascension_scene_2_%28Reach%29.png"/>
 </p>
 
 ---
