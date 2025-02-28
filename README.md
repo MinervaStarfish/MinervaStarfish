@@ -1,6 +1,6 @@
 <!-- Header with an image -->
 <p align="center">
-  <img src="https://static.wikitide.net/rainworldwiki/thumb/d/d9/Monk_ascension_scene_2_%28Reach%29.png/1024px-Monk_ascension_scene_2_%28Reach%29.png"/>
+  <img src="https://static.wikia.nocookie.net/hanakokun/images/d/d3/Portada_jibaku-shounen-hanako-kun-7.jpg/revision/latest/scale-to-width-down/1000?cb=20240515011702&path-prefix=es"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 <table border="1" width="298" align="center">
     <tr>
         <td><h2 align="center">My Top 5 Animations</h2></td>
-        <td rowspan="2"><img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500"/></td> <!-- Celda que ocupa ambas filas -->
+        <td rowspan="2"><img align="center" src="https://static.wikitide.net/rainworldwiki/thumb/d/d9/Monk_ascension_scene_2_%28Reach%29.png/1024px-Monk_ascension_scene_2_%28Reach%29.png" width="500"/></td> <!-- Celda que ocupa ambas filas -->
         <td><h2 align="center">My Top 5 Games</h2></td>
     </tr>
     <tr>
