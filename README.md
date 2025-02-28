@@ -57,6 +57,8 @@
             <li>Hello Charlotte</li>
             <li>Rain World</li>
             <li>Undertale</li>
+            <li>Super Mario 64 DS</li>
+            <li>WarioWare Touched!</li>
           </ul>
         </td>
     </tr>
