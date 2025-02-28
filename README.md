@@ -171,7 +171,13 @@
   </tr>
 </table>
 
+
 ---
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/hellocharlotte/images/8/88/Charlotte3-2b.png/revision/latest?cb=20180227215532" width="894"/>
+</p>
+
 <hr>
 <img align="left" src="https://static.wikia.nocookie.net/hellocharlotte/images/e/e4/Ink1.png/revision/latest?cb=20180301230159" height="325" width="320" />
 
