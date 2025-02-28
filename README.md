@@ -34,9 +34,11 @@
 </td></tr></table>
 
 
-<h3 align="left">A little more about me</h3>
 
-<img align="right" src="https://via.placeholder.com/300" alt="Foto de Mariana" style="width: 300px; border-radius: 10px;"/>
+
+
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<h3 align="right">A little more abot me</h3>
 
 
 
