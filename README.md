@@ -39,7 +39,6 @@
 </table>-->
 <h1 align="center">A little More About Me</h1>
 
----
 
 <table border="1" width="298" align="center">
     <tr>
