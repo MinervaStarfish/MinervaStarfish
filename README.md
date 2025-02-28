@@ -173,6 +173,7 @@
 
 ---
 <img align="left" src="https://static.wikia.nocookie.net/hellocharlotte/images/e/e4/Ink1.png/revision/latest?cb=20180301230159" height="325" width="320" />
+<hr>
 
 ```
 The Tale of Ink Princess
@@ -192,6 +193,7 @@ No matter where the Ink Princess went, she was always unwelcome.
 Every step the Princess took stained the ground, leaving inerasable footprints. Everything she touched turned pitch-black, as if it was never white before.
 In order to protect the city, at the cost of many, many lives, the citizens caught the Ink Princess and had her thrown in a paperwhite prison.
 ```
+<hr>
 
 <img align="right" src="https://static.wikia.nocookie.net/hellocharlotte/images/c/c6/Oracle-7.png/revision/latest?cb=20170515105202" height="238.75" width="320" />
 
