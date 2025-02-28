@@ -1,6 +1,6 @@
 <!-- Header with an image -->
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/hanakokun/images/d/d3/Portada_jibaku-shounen-hanako-kun-7.jpg/revision/latest/scale-to-width-down/1000?cb=20240515011702&path-prefix=es"/>
+  <img src="https://static.wikia.nocookie.net/hanakokun/images/d/d3/Portada_jibaku-shounen-hanako-kun-7.jpg/revision/latest/scale-to-width-down/1000?cb=20240515011702&path-prefix=es" height="363"/>
 </p>
 
 ---
