@@ -20,12 +20,14 @@
 </p>
 
 <!-- Presentation -->
-<div style="white-space: pre-line;">
-  This is me, a Systems and Computer Science Engineering student at the Pontifical Bolivarian University in Colombia.
-  I thrive on learning every day and questioning the unquestionable.
-  I am on a constant journey to discover what truly ignites my passion.
-  20yo, Aries, INTP.
-</div>
+<p align="center">
+  This is me, a Systems and Computer Science Engineering student at the Pontifical Bolivarian University in Colombia.<br>
+  I thrive on learning every day and questioning the unquestionable.<br>
+  I am on a constant journey to discover what truly ignites my passion.<br>
+  20yo, Aries, INTP.<br><br>
+  
+  Feel free to dive deeper into my world
+</p>
 
 
 <hr>
