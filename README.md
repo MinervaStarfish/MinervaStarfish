@@ -16,10 +16,6 @@
 </p>
 
 <!-- About me -->
-
-<table style="border-color: transparent;" cellspacing="0">
-  <tr>
-    <td valign="center" width="60%">
       
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%"> 
 ## Mis gustos
