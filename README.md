@@ -47,15 +47,16 @@
 <table border="1">
     <tr>
         <td>Columna 1, Fila 1</td>
-        <td>Columna 2, Fila 1</td>
+        <td rowspan="2">Columna 2 (Ocupa 2 filas)</td> <!-- Celda que ocupa ambas filas -->
         <td>Columna 3, Fila 1</td>
     </tr>
     <tr>
         <td>Columna 1, Fila 2</td>
-        <td>Columna 1</td>
         <td>Columna 3, Fila 2</td>
     </tr>
 </table>
+
+
 
 
 
