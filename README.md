@@ -38,23 +38,25 @@
 
 <table border="1">
     <tr>
-        <td><h2 align="center">The Animations I Love the Most</h2></td>
+        <td><h2 align="center">My Top 5 Animations</h2></td>
         <td rowspan="2">Columna 2 (Ocupa 2 filas)</td> <!-- Celda que ocupa ambas filas -->
-        <td><h2 align="center">The Games I Love the Most</h2></td>
+        <td><h2 align="center">My Top 5 Games</h2></td>
     </tr>
     <tr>
         <td>
           <ul>
-            <li>Elemento 1</li>
-            <li>Elemento 2</li>
-            <li>Elemento 3</li>
+            <li>Steven Universe</li>
+            <li>Adventure Time</li>
+            <li>Devilman Crybaby</li>
+            <li>The Midnight Gospel</li>
+            <li>Over The Garden Wall</li>
           </ul>
         </td>
         <td>          
           <ul>
-            <li>Elemento 1</li>
-            <li>Elemento 2</li>
-            <li>Elemento 3</li>
+            <li>Hello Charlotte</li>
+            <li>Rain World</li>
+            <li>Undertale</li>
           </ul>
         </td>
     </tr>
