@@ -33,13 +33,11 @@
 </p>
 </td></tr></table>
 
-<p align="left">
-  ### A little more about me
-</p>
-  
-<p align="right">
-<img src="https://via.placeholder.com/300" alt="Foto de Mariana" style="width: 300px; border-radius: 10px;">
-</p>
+
+<h1 align="left">A little more about me</h1>
+
+<img align="right" src="https://via.placeholder.com/300" alt="Foto de Mariana" style="width: 300px; border-radius: 10px;"/>
+
 
 
 
