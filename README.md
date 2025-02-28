@@ -95,7 +95,7 @@
     <th><h3>Technologies</h3></th>
   </tr>
   <tr>
-    <td align="center" width="300"><b>Programming Languages</b></td>
+    <td align="center" width="250"><b>Programming Languages</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
