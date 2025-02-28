@@ -18,10 +18,11 @@
 <!-- About me -->
       
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%"> 
-### My Diaries :s
+
+  <img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
 
 </td><td valign="top" width="33%">
-<img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
+<p align="right">
 
 ### My Diaries :s
 
