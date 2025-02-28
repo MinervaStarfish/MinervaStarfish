@@ -18,7 +18,7 @@ This is me, a Systems and Computer Science Engineering student at the Pontifical
 I thrive on learning every day and questioning the unquestionable.<br>
 I am on a constant journey to discover what truly ignites my passion.<br>
 20yo, Aries, INTP.
-<br>
+<br><br>
 Feel free to dive deeper into my world
 </p>
 
