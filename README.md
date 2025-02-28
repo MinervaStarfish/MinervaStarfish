@@ -21,39 +21,14 @@
   <tr>
     <td valign="center" width="60%">
       
-      ## 🌟 Sobre Mí  
-      Soy Mariana, estudiante de Ingeniería de Sistemas e Informática. Me apasiona la tecnología, el desarrollo web y la gestión de proyectos. Actualmente, estoy explorando distintas ramas de mi carrera para decidir en qué especializarme.  
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%"> 
+## Mis gustos
 
-      ## 🎓 Educación  
-      - Ingeniería de Sistemas e Informática (6° semestre)  
-      - Experiencia en desarrollo web, sistemas distribuidos y cloud computing  
+</td><td valign="top" width="33%">
+<p align="right">
 
-      ## 🛠️ Habilidades  
-      - Programación en **Python, JavaScript, C**  
-      - Desarrollo **web con HTML, CSS y React**  
-      - Gestión de proyectos con **Scrum y Kanban**  
-      - Análisis de datos y modelado de bases de datos  
+<img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
 
-      ## 📌 Proyectos Actuales  
-      - Aplicación web con Python y GitLab CI/CD  
-      - Proyecto de gestión textil  
-      - Investigación sobre salud mental en educación en ingeniería  
-
-      ## 📫 Contacto  
-      Si quieres colaborar en un proyecto o simplemente charlar, contáctame en:  
-      ✉️ [miemail@example.com](mailto:miemail@example.com)  
-      🌐 [Mi sitio web](https://miportafolio.com)  
-
-    </td>
-    
-    <td valign="top" width="40%">
-      <img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
-    </td>
-  </tr>
-</table>
-
-
-
-
-
+</p>
+</td></tr></table>
 <!-- PNOTICAS JAJAJ -->
