@@ -19,10 +19,11 @@
 
 <p align="center">
   <em>
-    This is me, a Systems and Informatics Engineering student at the Pontifical Bolivarian University in Colombia.<br>I thrive on learning every day and questioning the unquestionable.<br>I am on a constant journey to discover what truly ignites my passion.<br>20yo, Aries, INTP.
+    This is me, a Systems and Computer Science Engineering student at the Pontifical Bolivarian University in Colombia.<br>I thrive on learning every day and questioning the unquestionable.<br>I am on a constant journey to discover what truly ignites my passion.<br>20yo, Aries, INTP.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Feel free to dive deeper into my world</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <b><i>Feel free to dive deeper into my world</i></b>
 </p>
+<hr>
 
 <!-- PNOTICAS JAJAJ -->
