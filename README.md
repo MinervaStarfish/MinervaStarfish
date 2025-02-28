@@ -27,7 +27,7 @@
 <p align="right">
 
 ## A little more about me...
-<h2>A little more about me...</h2>
+<h2 align="right">A little more about me...</h2>
 
 
 </p>
