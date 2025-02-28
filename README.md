@@ -15,6 +15,8 @@
 </p>
 </p>
 
+<hr>
+
 <!-- About me -->
       
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="60%"> 
@@ -24,8 +26,8 @@
 </td><td valign="top" width="500%">
 <p align="right">
 
-### My Diaries :saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+## A little more about me...
+<h2>A little more about me...</h2>
 
 
 </p>
