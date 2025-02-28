@@ -28,4 +28,15 @@
 <hr>
 <h1 align="center"></h1>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 50%; padding: 10px;">
+        <h3>Texto en la izquierda</h3>
+        <p>Este es un cuadro de texto en la columna izquierda.</p>
+    </div>
+    <div style="width: 50%; text-align: center;">
+        <img src="https://via.placeholder.com/150" alt="Imagen de ejemplo" style="max-width: 100%;">
+    </div>
+</div>
+
+
 <!-- PNOTICAS JAJAJ -->
