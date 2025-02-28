@@ -44,11 +44,14 @@
     <li>Elemento 3</li>
 </ul>
 
-<div>
-    <div>Columna 1</div>
-    <div>Columna 2</div>
-    <div>Columna 3</div>
-</div>
+<table border="1">
+    <tr>
+        <td>Columna 1</td>
+        <td>Columna 2</td>
+        <td>Columna 3</td>
+    </tr>
+</table>
+
 
 
 
