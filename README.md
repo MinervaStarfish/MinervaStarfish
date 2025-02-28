@@ -44,7 +44,7 @@
 <table border="1" width="298" align="center">
     <tr>
         <td><h2 align="center">My Top 5 Animations</h2></td>
-        <td rowspan="2"><img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="386"/></td> <!-- Celda que ocupa ambas filas -->
+        <td rowspan="2"><img align="center" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="500"/></td> <!-- Celda que ocupa ambas filas -->
         <td><h2 align="center">My Top 5 Games</h2></td>
     </tr>
     <tr>
