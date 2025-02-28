@@ -33,13 +33,14 @@
 </p>
 </td></tr></table>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-### A little more about me
-
+<p align="left">
+  ### A little more about me
+</p>
+  
+<p align="right">
 <img src="https://via.placeholder.com/300" alt="Foto de Mariana" style="width: 300px; border-radius: 10px;">
+</p>
 
-</div>
 
 
 <!-- PNOTICAS JAJAJ -->
