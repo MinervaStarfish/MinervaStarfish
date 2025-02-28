@@ -25,5 +25,6 @@
   <b><i>Feel free to dive deeper into my world</i></b>
 </p>
 <hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mariana A.K.A Mins</h1>
 
 <!-- PNOTICAS JAJAJ -->
