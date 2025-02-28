@@ -20,7 +20,7 @@
 <!-- About me -->
 
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="894" height="38.19"/>
+<img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="894" height="38.19"/>
 <!-- <h2 align="center">A little more about me</h2> -->
 
 
