@@ -52,6 +52,7 @@
     </tr>
     <tr>
         <td>Columna 1, Fila 2</td>
+        <td>Columna 1</td>
         <td>Columna 3, Fila 2</td>
     </tr>
 </table>
