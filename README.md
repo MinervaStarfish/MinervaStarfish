@@ -43,22 +43,26 @@
         <td>Columna 3, Fila 1</td>
     </tr>
     <tr>
-        <td><ul>
-    <li>Elemento 1</li>
-    <li>Elemento 2</li>
-    <li>Elemento 3</li>
-</ul></td>
-        <td>Columna 3, Fila 2</td>
+        <td>
+          <ul>
+            <li>Elemento 1</li>
+            <li>Elemento 2</li>
+            <li>Elemento 3</li>
+          </ul>
+        </td>
+        <td>          
+          <ul>
+            <li>Elemento 1</li>
+            <li>Elemento 2</li>
+            <li>Elemento 3</li>
+          </ul>
+        </td>
     </tr>
 </table>
 
 ---
 
-<ul>
-    <li>Elemento 1</li>
-    <li>Elemento 2</li>
-    <li>Elemento 3</li>
-</ul>
+
 
 
 
