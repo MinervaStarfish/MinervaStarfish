@@ -21,9 +21,11 @@
 ### My Diaries :s
 
 </td><td valign="top" width="33%">
-<p align="right">
-
 <img src="https://via.placeholder.com/300" alt="Foto de Mariana" width="300">
+
+### My Diaries :s
+
+
 
 </p>
 </td></tr></table>
